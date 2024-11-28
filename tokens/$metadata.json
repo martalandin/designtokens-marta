@@ -1,5 +1,11 @@
 {
   "tokenSetOrder": [
-    "global"
+    "global",
+    "palette",
+    "viewport/typography_desktop",
+    "viewport/typography_mobile",
+    "mode/light",
+    "mode/dark",
+    "comp/button"
   ]
 }
